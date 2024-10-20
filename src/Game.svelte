@@ -73,7 +73,7 @@
             });
 
             console.log(currentRound.currentHero.audioURL);
-            currentRound.audioRenderer.load("/src/assets/sounds/" + currentRound.currentHero.audioURL);
+            currentRound.audioRenderer.load("/public/assets/sounds/" + currentRound.currentHero.audioURL);
         }
         currentRound.audioRenderer?.on('play', () => {
             audioPlaying = true;
@@ -181,7 +181,7 @@
                     }}
                 >
                     <div class="relative">
-                        <img src={"/src/assets/images/heroes/" + hero.image} alt={hero.name} class="w-full mx-auto"/>
+                        <img src={"/public/assets/images/heroes/" + hero.image} alt={hero.name} class="w-full mx-auto"/>
                         <div class="absolute inset-x-0 bottom-0 h-1/2 bg-gradient-to-t from-black/100 to-transparent rounded-md"></div>
                         <div class="absolute inset-x-0 bottom-0 flex justify-center items-center p-2">
                             <p class="text-white text-center font-bold text-sm">

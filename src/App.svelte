@@ -6,7 +6,7 @@
 <main>
   <div class="flex flex-col justify-center items-center h-dvh bg-zinc-100">
     <div class="grow"></div>
-    <img src="/src/assets/images/Deadlock.png" alt="logo" class="w-80 mb-4"/>
+    <img src="/public/assets/images/Deadlock.png" alt="logo" class="w-80 mb-4"/>
     <Game/>
     <div class="grow"></div>
     <div class="flex justify-center items-center w-full">
