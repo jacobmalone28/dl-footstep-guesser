@@ -73,7 +73,7 @@
             });
 
             console.log(currentRound.currentHero.audioURL);
-            currentRound.audioRenderer.load("/public/assets/sounds/" + currentRound.currentHero.audioURL);
+            currentRound.audioRenderer.load("/assets/sounds/" + currentRound.currentHero.audioURL);
         }
         currentRound.audioRenderer?.on('play', () => {
             audioPlaying = true;
