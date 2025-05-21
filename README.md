@@ -2,6 +2,8 @@
 
 A simple web application designed to help users practice recognizing footsteps in the game Deadlock. This tool is hosted at [https://dl-footstep-guesser.pages.dev](https://dl-footstep-guesser.pages.dev) using Cloudflare Pages.
 
+![Screenshot 2025-05-20 at 9 15 42 PM](https://github.com/user-attachments/assets/9d3ddfcb-f15d-45f8-b2f9-0c14991fcf26)
+
 ## About
 
 In Deadlock, recognizing the distinctive sounds of enemy footsteps can be crucial for gaining a tactical advantage. This web app provides a straightforward way to hone that skill. It presents audio clips of different footsteps, allowing you to test your ability to identify the source.
