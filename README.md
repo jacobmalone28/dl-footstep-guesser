@@ -1,8 +1,8 @@
 # dl-footstep-guesser
 
-A simple web application designed to help users practice recognizing footsteps in the game Deadlock. This tool is hosted at [https://dl-footstep-guesser.pages.dev](https://dl-footstep-guesser.pages.dev) using Cloudflare Pages.
+![image](https://github.com/user-attachments/assets/ecd9b814-eb2f-4c6e-837f-95892df61810)
 
-![Screenshot 2025-05-20 at 9 15 42 PM](https://github.com/user-attachments/assets/9d3ddfcb-f15d-45f8-b2f9-0c14991fcf26)
+A simple web application designed to help users practice recognizing footsteps in Valve's game Deadlock. This tool is hosted at [https://dl-footstep-guesser.pages.dev](https://dl-footstep-guesser.pages.dev) using Cloudflare Pages.
 
 ## About
 
